@@ -1,0 +1,24 @@
+{
+  "name": "shri-2018-hw-nodejs",
+  "version": "1.0.0",
+  "description": "Реализация домашнего задания по \"Node.js\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalv96/shri-2018-hw-nodejs.git"
+  },
+  "author": "Vladislav Telichko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalv96/shri-2018-hw-nodejs/issues"
+  },
+  "homepage": "https://github.com/dalv96/shri-2018-hw-nodejs#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {}
+}
